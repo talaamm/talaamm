@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=talaamm&base=800&abbreviated=true\&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tala-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/tala-al-amm)
-[![Portfolio](https://img.shields.io/badge/Tala-Amm-black?style=flat-square)](https://talaamm.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Tala_Amm-green?style=flat-square)](https://talaamm.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:tala.aunv@gmail.com)
 
 </div>
