@@ -6,7 +6,7 @@
 
 *Building projects, breaking things, fixing them, and learning how computers actually work.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=talaamm\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=talaamm&base=800&abbreviated=true\&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tala-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=flat-square)](#)
