@@ -6,7 +6,7 @@
 
 *Building projects, breaking things, fixing them, and learning how computers actually work.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=talaamm\&style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tala-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=flat-square)](#)
@@ -110,9 +110,9 @@ A custom framework built from scratch featuring routing, state management, event
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talaamm\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talaamm\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
