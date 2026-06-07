@@ -22,7 +22,6 @@ I'm a Computer Engineering student who loves understanding how software works be
 
 Most of my time is spent building projects, exploring backend systems, learning Rust and Go, and diving into operating systems concepts that most people happily ignore.
 
-* 🦀 Currently learning Rust more deeply
 * ⚙️ Building backend systems with Go
 * 🌐 Interested in distributed systems and networking
 * 🖥️ Love operating systems, concurrency, and low-level concepts
@@ -64,22 +63,6 @@ Most of my time is spent building projects, exploring backend systems, learning 
 
 ## Featured Projects
 
-### 🌐 Social Network
-
-> Go · Vue.js · SQLite · WebSockets
-
-A Facebook-style social platform with authentication, real-time messaging, groups, notifications, and WebSocket-powered communication.
-
----
-
-### 🦀 Rust Learning Lab
-
-> Rust
-
-A collection of Rust projects and experiments covering ownership, borrowing, collections, algorithms, and systems programming concepts.
-
----
-
 ### ⚙️ Operating Systems Simulations
 
 > Go · C
@@ -88,17 +71,8 @@ Implementations of process scheduling algorithms, thread simulations, synchroniz
 
 ---
 
-### 🔨 JavaScript Framework
-
-> JavaScript
-
-A custom framework built from scratch featuring routing, state management, event handling, and DOM abstraction.
-
----
-
 ## Current Focus
 
-* 🦀 Advanced Rust
 * ⚙️ Systems Programming
 * 🌐 Backend Engineering
 * 📡 Distributed Systems
