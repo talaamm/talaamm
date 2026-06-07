@@ -1,16 +1,138 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**talaamm/talaamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Tala 👋
 
-Here are some ideas to get you started:
+### Computer Engineering Student · Full-Stack Developer · Systems Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building projects, breaking things, fixing them, and learning how computers actually work.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tala-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-black?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:you@example.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Engineering student who loves understanding how software works beneath the surface.
+
+Most of my time is spent building projects, exploring backend systems, learning Rust and Go, and diving into operating systems concepts that most people happily ignore.
+
+* 🦀 Currently learning Rust more deeply
+* ⚙️ Building backend systems with Go
+* 🌐 Interested in distributed systems and networking
+* 🖥️ Love operating systems, concurrency, and low-level concepts
+* 📚 Constantly learning and documenting what I discover
+* 🚀 Turning university knowledge into real-world projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### Backend
+
+![Go](https://img.shields.io/badge/Golang_Backend-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🌐 Social Network
+
+> Go · Vue.js · SQLite · WebSockets
+
+A Facebook-style social platform with authentication, real-time messaging, groups, notifications, and WebSocket-powered communication.
+
+---
+
+### 🦀 Rust Learning Lab
+
+> Rust
+
+A collection of Rust projects and experiments covering ownership, borrowing, collections, algorithms, and systems programming concepts.
+
+---
+
+### ⚙️ Operating Systems Simulations
+
+> Go · C
+
+Implementations of process scheduling algorithms, thread simulations, synchronization concepts, and operating system fundamentals.
+
+---
+
+### 🔨 JavaScript Framework
+
+> JavaScript
+
+A custom framework built from scratch featuring routing, state management, event handling, and DOM abstraction.
+
+---
+
+## Current Focus
+
+* 🦀 Advanced Rust
+* ⚙️ Systems Programming
+* 🌐 Backend Engineering
+* 📡 Distributed Systems
+* 🖥️ Operating Systems
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## Philosophy
+
+```text
+Learn.
+Build.
+Break.
+Debug.
+Understand.
+Repeat.
+```
+
+---
+
+<div align="center">
+
+*"I don't just want to know that something works. I want to know why."*
+
+</div>
