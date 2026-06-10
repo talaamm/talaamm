@@ -84,9 +84,9 @@ Implementations of process scheduling algorithms, thread simulations, synchroniz
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talaamm\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talaamm\&show_icons=true\&theme=tokyonight\&hide_border=true&include_all_commits=true&count_private=true&card_width=450)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talaamm\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talaamm\&layout=compact\&theme=tokyonight\&hide_border=true&count_private=true&language_rank=2&card_width=450)
 
 </div>
 
