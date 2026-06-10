@@ -82,11 +82,11 @@ Implementations of process scheduling algorithms, thread simulations, synchroniz
 
 ## GitHub Stats
 
-<div align="center">
+<div>
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=talaamm&show=prs_merged_percentage&hide=issues&commits_year=2025&count_private=true)](https://github.com/talaamm/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talaamm\&show_icons=true\&theme=tokyonight\&hide_border=true&include_all_commits=true&count_private=true&card_width=450)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talaamm\&layout=compact\&theme=tokyonight\&hide_border=true&count_private=true&language_rank=2&card_width=450)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talaamm\&layout=compact\&theme=transparent\&hide_border=true&count_private=true&language_rank=2&card_width=450&hide=html,css,jupyter%20notebook)
 
 </div>
 
